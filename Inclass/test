@@ -1,0 +1,11 @@
+print("\n", "Fortnite burger . net")
+print("Yo whats good", "Bruh", sep = "69")
+rids = "oak"
+y = "pal"
+bag = "t"
+print(rids + "gone, i" + y)
+pin = "pan"
+boil = 14
+rose = 16
+print(rose, str(boil) + pin)
+
